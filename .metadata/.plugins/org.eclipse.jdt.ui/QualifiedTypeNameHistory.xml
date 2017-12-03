@@ -4,4 +4,5 @@
 <fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
 <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
 <fullyQualifiedTypeName name="br.com.caelum.financas.util.JPAUtil"/>
+<fullyQualifiedTypeName name="br.com.caelum.financas.modelo.Conta"/>
 </qualifiedTypeNameHistroy>
