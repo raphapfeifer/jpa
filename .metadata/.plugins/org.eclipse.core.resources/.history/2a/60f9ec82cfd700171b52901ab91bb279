@@ -21,7 +21,7 @@ public class Teste {
 		EntityManager em = new JPAUtil().getEntityManager();
 		
 		em.getTransaction().begin();
-		conta = em.find(Conta.class,7);
+		conta = em.find(Conta.class,7)
 		
 		
 		em.remove(conta);

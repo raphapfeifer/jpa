@@ -12,22 +12,15 @@ public class Teste {
 	public static void main(String[] args) {
 		
 		Conta conta = new Conta();
-		conta.setId(7);
-		conta.setTitular("Danilo");
+		conta.setTitular("Raphael");
 		conta.setAgencia("123");
-		conta.setBanco("Banco do Brasil");
+		conta.setBanco("Bradesco");
 		conta.setNumero("456");
 		
 		EntityManager em = new JPAUtil().getEntityManager();
 		
 		em.getTransaction().begin();
-		conta = em.find(Conta.class,7);
-		
-		
-		em.remove(conta);
-		
-		conta.setBanco("Bradesco");
-		
+		em.persist(conta);
 		em.getTransaction().commit();
 		
 		em.close();

@@ -12,7 +12,6 @@ public class Teste {
 	public static void main(String[] args) {
 		
 		Conta conta = new Conta();
-		conta.setId(7);
 		conta.setTitular("Danilo");
 		conta.setAgencia("123");
 		conta.setBanco("Banco do Brasil");
@@ -21,10 +20,7 @@ public class Teste {
 		EntityManager em = new JPAUtil().getEntityManager();
 		
 		em.getTransaction().begin();
-		conta = em.find(Conta.class,7);
-		
-		
-		em.remove(conta);
+		em.persist(conta);
 		
 		conta.setBanco("Bradesco");
 		
