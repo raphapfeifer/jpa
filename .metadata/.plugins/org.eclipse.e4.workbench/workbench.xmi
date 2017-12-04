@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_OKBlANfOEeeUE_w9LxlS8g" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_OKBlAdfOEeeUE_w9LxlS8g" bindingContexts="_OKCOsNfOEeeUE_w9LxlS8g">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Teste.java&quot; tooltip=&quot;financas/src/br/com/caelum/financas/teste/Teste.java&quot;>&#xA;&lt;persistable path=&quot;/financas/src/br/com/caelum/financas/teste/Teste.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TesteBuscaConta.java&quot; tooltip=&quot;financas/src/br/com/caelum/financas/teste/TesteBuscaConta.java&quot;>&#xA;&lt;persistable path=&quot;/financas/src/br/com/caelum/financas/teste/TesteBuscaConta.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PopulaConta.java&quot; tooltip=&quot;financas/src/br/com/caelum/financas/util/PopulaConta.java&quot;>&#xA;&lt;persistable path=&quot;/financas/src/br/com/caelum/financas/util/PopulaConta.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JPAUtil.java&quot; tooltip=&quot;financas/src/br/com/caelum/financas/util/JPAUtil.java&quot;>&#xA;&lt;persistable path=&quot;/financas/src/br/com/caelum/financas/util/JPAUtil.java&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Movimentacao.java&quot; tooltip=&quot;financas/src/br/com/caelum/financas/modelo/Movimentacao.java&quot;>&#xA;&lt;persistable path=&quot;/financas/src/br/com/caelum/financas/modelo/Movimentacao.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TipoMovimentacao.java&quot; tooltip=&quot;financas/src/br/com/caelum/financas/modelo/TipoMovimentacao.java&quot;>&#xA;&lt;persistable path=&quot;/financas/src/br/com/caelum/financas/modelo/TipoMovimentacao.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Teste.java&quot; tooltip=&quot;financas/src/br/com/caelum/financas/teste/Teste.java&quot;>&#xA;&lt;persistable path=&quot;/financas/src/br/com/caelum/financas/teste/Teste.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TesteBuscaConta.java&quot; tooltip=&quot;financas/src/br/com/caelum/financas/teste/TesteBuscaConta.java&quot;>&#xA;&lt;persistable path=&quot;/financas/src/br/com/caelum/financas/teste/TesteBuscaConta.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PopulaConta.java&quot; tooltip=&quot;financas/src/br/com/caelum/financas/util/PopulaConta.java&quot;>&#xA;&lt;persistable path=&quot;/financas/src/br/com/caelum/financas/util/PopulaConta.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;JPAUtil.java&quot; tooltip=&quot;financas/src/br/com/caelum/financas/util/JPAUtil.java&quot;>&#xA;&lt;persistable path=&quot;/financas/src/br/com/caelum/financas/util/JPAUtil.java&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_OKBlAdfOEeeUE_w9LxlS8g" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_OKBlAtfOEeeUE_w9LxlS8g" label="%trimmedwindow.label.eclipseSDK" x="65" y="24" width="1024" height="745">
@@ -78,7 +78,7 @@
               <children xsi:type="advanced:Placeholder" xmi:id="_OKBlCdfOEeeUE_w9LxlS8g" elementId="org.eclipse.jdt.ui.TypeHierarchy" toBeRendered="false" ref="_OKBmfdfOEeeUE_w9LxlS8g"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_OKBlCtfOEeeUE_w9LxlS8g" elementId="org.eclipse.jdt.ui.PackagesView" toBeRendered="false" ref="_OKBmftfOEeeUE_w9LxlS8g"/>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_OKBlC9fOEeeUE_w9LxlS8g" containerData="7500" selectedElement="_OKBlEdfOEeeUE_w9LxlS8g">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_OKBlC9fOEeeUE_w9LxlS8g" containerData="7500" selectedElement="_OKBlDNfOEeeUE_w9LxlS8g">
               <children xsi:type="basic:PartSashContainer" xmi:id="_OKBlDNfOEeeUE_w9LxlS8g" containerData="7000" selectedElement="_OKBlDdfOEeeUE_w9LxlS8g" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_OKBlDdfOEeeUE_w9LxlS8g" elementId="org.eclipse.ui.editorss" containerData="7000" ref="_OKBmVNfOEeeUE_w9LxlS8g"/>
                 <children xsi:type="basic:PartStack" xmi:id="_OKBlDtfOEeeUE_w9LxlS8g" elementId="topRight" toBeRendered="false" containerData="3000">
@@ -133,7 +133,7 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_OKBmVNfOEeeUE_w9LxlS8g" elementId="org.eclipse.ui.editorss" selectedElement="_OKBmVdfOEeeUE_w9LxlS8g">
-      <children xsi:type="basic:PartStack" xmi:id="_OKBmVdfOEeeUE_w9LxlS8g" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_OKBmXtfOEeeUE_w9LxlS8g">
+      <children xsi:type="basic:PartStack" xmi:id="_OKBmVdfOEeeUE_w9LxlS8g" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_4Y-nkNieEeeAsMnKlP5qzQ">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
@@ -187,8 +187,6 @@
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
           <menus xsi:type="menu:PopupMenu" xmi:id="_OKBmX9fOEeeUE_w9LxlS8g" elementId="#CompilationUnitEditorContext">
             <tags>menuContribution:popup</tags>
             <tags>popup:#CompilationUnitEditorContext</tags>
@@ -205,6 +203,20 @@
             <tags>menuContribution:popup</tags>
             <tags>popup:#OverviewRulerContext</tags>
           </menus>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_4Y-nkNieEeeAsMnKlP5qzQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Movimentacao.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Movimentacao.java&quot; partName=&quot;Movimentacao.java&quot; title=&quot;Movimentacao.java&quot; tooltip=&quot;financas/src/br/com/caelum/financas/modelo/Movimentacao.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/financas/src/br/com/caelum/financas/modelo/Movimentacao.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;398&quot; selectionTopPixel=&quot;45&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_5t4vkNifEeeAsMnKlP5qzQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TipoMovimentacao.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TipoMovimentacao.java&quot; partName=&quot;TipoMovimentacao.java&quot; title=&quot;TipoMovimentacao.java&quot; tooltip=&quot;financas/src/br/com/caelum/financas/modelo/TipoMovimentacao.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/financas/src/br/com/caelum/financas/modelo/TipoMovimentacao.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;86&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
         </children>
       </children>
     </sharedElements>
@@ -370,7 +382,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_OKCMWdfOEeeUE_w9LxlS8g" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_8_adsNfOEeeV8rdpjJrSMw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_OKEoW9fOEeeUE_w9LxlS8g"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_XUPbUNieEeeAsMnKlP5qzQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_OKEoW9fOEeeUE_w9LxlS8g"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_OKCMZtfOEeeUE_w9LxlS8g" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -406,7 +418,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_OKCMm9fOEeeUE_w9LxlS8g" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_8_f9QNfOEeeV8rdpjJrSMw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_OKEC_NfOEeeUE_w9LxlS8g"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_XUSeoNieEeeAsMnKlP5qzQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_OKEC_NfOEeeUE_w9LxlS8g"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_OKCMptfOEeeUE_w9LxlS8g" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -2936,7 +2948,7 @@
   <addons xmi:id="_OKEpwtfOEeeUE_w9LxlS8g" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_OKEpw9fOEeeUE_w9LxlS8g" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_OKEpxNfOEeeUE_w9LxlS8g" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_WKY3UdieEeeAsMnKlP5qzQ" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_OKEpxtfOEeeUE_w9LxlS8g" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_OKEpx9fOEeeUE_w9LxlS8g" elementId="org.eclipse.ui.category.edit" name="Edit"/>
   <categories xmi:id="_OKEpyNfOEeeUE_w9LxlS8g" elementId="org.eclipse.mylyn.wikitext.ui.editor.category" name="WikiText Markup Editing Commands" description="commands for editing lightweight markup"/>

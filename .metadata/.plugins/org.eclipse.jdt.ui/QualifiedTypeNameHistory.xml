@@ -5,4 +5,7 @@
 <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
 <fullyQualifiedTypeName name="br.com.caelum.financas.util.JPAUtil"/>
 <fullyQualifiedTypeName name="br.com.caelum.financas.modelo.Conta"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="java.math.BigDecimal"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
 </qualifiedTypeNameHistroy>
