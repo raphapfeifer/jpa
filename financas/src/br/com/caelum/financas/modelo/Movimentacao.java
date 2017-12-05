@@ -23,7 +23,19 @@ public class Movimentacao {
 	
 	private String descricao;
 
+	@ManyToOne
 	private Conta conta;
+	
+
+	public Conta getConta() {
+		return conta;
+	}
+
+
+	public void setConta(Conta conta) {
+		this.conta = conta;
+	}
+
 
 	public Integer getId() {
 		return id;

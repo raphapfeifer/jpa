@@ -1,0 +1,31 @@
+package br.com.caelum.financas.teste;
+
+import javax.persistence.EntityManager;
+
+import br.com.caelum.financas.modelo.Conta;
+import br.com.caelum.financas.modelo.Movimentacao;
+import br.com.caelum.financas.util.JPAUtil;
+
+public class TesteJPARelacionamento {
+
+	public static void main(String[] args) {
+		
+		EntityManager em = new JPAUtil().getEntityManager();
+		em.getTransaction().begin();
+		
+		
+		Conta conta = new Conta();
+		conta.setAgencia("0102");
+		conta.setBanco("Itau");
+		conta.setTitular("Leonardo");
+		
+		Movimentacao movimentacao = new Movimentacao();
+		
+		
+		
+		em.getTransaction().commit();
+		em.close();
+
+	}
+
+}
