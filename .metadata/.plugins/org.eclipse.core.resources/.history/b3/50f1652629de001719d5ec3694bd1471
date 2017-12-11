@@ -1,0 +1,12 @@
+package br.com.caelum.financas.modelo;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Categoria {
+
+	@Id
+	@GeneratedValue()
+	private Integer;
+	
+}

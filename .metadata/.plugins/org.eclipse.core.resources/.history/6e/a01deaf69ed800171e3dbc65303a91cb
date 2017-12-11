@@ -1,8 +1,0 @@
-package br.com.caelum.financas.modelo;
-
-@Entity
-public class Movimentacao {
-	
-	
-
-}
