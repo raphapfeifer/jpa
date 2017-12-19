@@ -17,7 +17,7 @@ public class Cliente {
 	
 	private String endereco;
 
-	@JoinColumn(unique=true)
+	@JoinCloumn(unique=true)
 	@OneToOne
 	private Conta conta;
 	
