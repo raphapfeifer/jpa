@@ -19,7 +19,7 @@ public class Conta {
 	private String banco;
 	private String agencia;
 	
-	@OneToMany(mappedBy="conta")
+	@OneToMany
 	private List<Movimentacao> movimentacoes;
 	
 	
@@ -54,7 +54,7 @@ public class Conta {
 		this.agencia = agencia;
 	}
 	public List<Movimentacao> getMovimentacoes() {
-		return movimentacoes;
+		return null;
 	}
 	
 	

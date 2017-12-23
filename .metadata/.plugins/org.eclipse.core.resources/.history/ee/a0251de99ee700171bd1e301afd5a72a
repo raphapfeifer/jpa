@@ -19,7 +19,7 @@ public class Conta {
 	private String banco;
 	private String agencia;
 	
-	@OneToMany(mappedBy="conta")
+	@OneToMany
 	private List<Movimentacao> movimentacoes;
 	
 	
