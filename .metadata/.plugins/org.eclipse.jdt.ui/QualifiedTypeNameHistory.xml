@@ -11,10 +11,11 @@
 <fullyQualifiedTypeName name="br.com.caelum.financas.modelo.Categoria"/>
 <fullyQualifiedTypeName name="br.com.caelum.financas.modelo.Movimentacao"/>
 <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
-<fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
-<fullyQualifiedTypeName name="br.com.caelum.financas.util.JPAUtil"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.math.BigDecimal"/>
+<fullyQualifiedTypeName name="br.com.caelum.financas.util.JPAUtil"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
 <fullyQualifiedTypeName name="br.com.caelum.financas.modelo.Conta"/>
 <fullyQualifiedTypeName name="javax.persistence.Query"/>
-<fullyQualifiedTypeName name="java.math.BigDecimal"/>
+<fullyQualifiedTypeName name="javax.persistence.TypedQuery"/>
 </qualifiedTypeNameHistroy>

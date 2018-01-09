@@ -26,7 +26,7 @@ public class TesteFuncoesJPQL {
 		" and m.tipo = :pTipo" +
 		" order by m.valor desc";*/
 		
-		String jpql = "select distinct avg(m.valor) from Movimentacao m where m.conta = :pConta" +
+		String jpql = "select avg(m.valor) from Movimentacao m where m.conta = :pConta" +
 		" and m.tipo = :pTipo" +
 		" group by m.data";		
 		
@@ -41,9 +41,9 @@ public class TesteFuncoesJPQL {
 		List<Double> medias =  query.getResultList();
 		
 		
-		for (Double media : medias) {
-			System.out.println("A média é: " + media);
-		}
+		System.out.println("A média do dia 26 é: " + medias.get(0));
+		System.out.println("A média do dia 27 é: " + medias.get(1));
+		System.out.println("A média do dia 27 é: " + medias.get(2));
 		
 		em.getTransaction().commit();
 		em.close();
