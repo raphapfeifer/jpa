@@ -7,7 +7,6 @@ import javax.persistence.EntityManager;
 import javax.persistence.Query;
 import javax.persistence.TypedQuery;
 
-import br.com.caelum.financas.dao.MovimentacaoDao;
 import br.com.caelum.financas.modelo.Conta;
 import br.com.caelum.financas.modelo.Movimentacao;
 import br.com.caelum.financas.modelo.TipoMovimentacao;
@@ -34,7 +33,7 @@ public class TesteFuncoesJPQL {
 		//System.out.println("A soma é: " + soma);
 		
 
-		MovimentacaoDao dao = new MovimentacaoDao(em);
+		MovimentacaoDao dao = new MovimentacaoDao();
 		List<Double> medias = dao.getMediasPorDiaETipo(TipoMovimentacao.SAIDA,conta);
 		
 		for (Double media : medias) {

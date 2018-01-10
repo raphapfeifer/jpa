@@ -34,7 +34,7 @@ public class TesteFuncoesJPQL {
 		//System.out.println("A soma é: " + soma);
 		
 
-		MovimentacaoDao dao = new MovimentacaoDao(em);
+		MovimentacaoDao dao = new MovimentacaoDao();
 		List<Double> medias = dao.getMediasPorDiaETipo(TipoMovimentacao.SAIDA,conta);
 		
 		for (Double media : medias) {
